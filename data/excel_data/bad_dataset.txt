@@ -1,0 +1,22 @@
+A. dataset 
+1. acceptable noise: 1,13，19，20
+2. small noise:2,3,10,11,14,15,16,21  
+3. half are good, half curren=0: 12,7 
+3. 0 Current: 4,5,6,7,8,9
+4. negative HFR, current approx. 0: 18 
+
+
+B. Matlab file 
+1. Mannual inputs of weights? 
+2. cell_state and h_state read?
+3. predict_n2_ert_rtw the generated C files? 
+4. slprj folder ? 
+5. how to input t and test_t 
+6. cell_state and h_state self looping? (for n=1:cell_num?? line 45: should not be parallel relationship)
+
+important tricks ? : 
+1. hard_sig 
+
+
+B. Requirements 
+1. Put each experiment in a single excel
